@@ -1,1 +1,1 @@
-ori_repo: https://github.com/redbooth/jnotify
+Original Author's repo: https://github.com/redbooth/jnotify
